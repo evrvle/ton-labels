@@ -391,6 +391,22 @@
             "tags": [],
             "submittedBy": "rAndom1ze",
             "submissionTimestamp": "2025-02-14T01:01:01Z"
+        },
+        {
+            "address": "EQAS03vHi22IrLNKFPZ2rL5hS3IqXDcEpnatgN1RKRUznVZ1",
+            "source": "https://tonviewer.com/UQAS03vHi22IrLNKFPZ2rL5hS3IqXDcEpnatgN1RKRUznQuw",
+            "comment": "sends huge amount of assets to OKX wallets",
+            "tags": [],
+            "submittedBy": "ohld",
+            "submissionTimestamp": "2025-03-19T00:00:01Z"
+        },
+        {
+            "address": "EQBH2w_CBbd1SOnm0V6vAasHQ8lFzJklB38BiiHNRQ_9hXWf",
+            "source": "https://github.com/ton-studio/ton-labels/pull/177",
+            "comment": "OKX-11 highload wallet",
+            "tags": [],
+            "submittedBy": "rAndom1ze",
+            "submissionTimestamp": "2025-02-14T01:01:01Z"
         }
     ]
 }
